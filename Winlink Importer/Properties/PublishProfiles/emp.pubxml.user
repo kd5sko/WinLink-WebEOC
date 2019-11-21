@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Temp</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/FieldMatchUp.csv">
+      <publishTime>11/21/2019 09:39:39</publishTime>
+    </File>
+    <File Include="bin/README.txt">
+      <publishTime>11/21/2019 09:39:34</publishTime>
+    </File>
+    <File Include="bin/Winlink Importer.dll">
+      <publishTime>11/21/2019 09:54:32</publishTime>
+    </File>
+    <File Include="bin/Winlink Importer.XmlSerializers.dll">
+      <publishTime>11/21/2019 09:54:32</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>11/21/2019 09:39:40</publishTime>
+    </File>
+    <File Include="Error.aspx">
+      <publishTime>11/21/2019 09:39:37</publishTime>
+    </File>
+    <File Include="FieldMatchUp.csv">
+      <publishTime>11/21/2019 09:39:39</publishTime>
+    </File>
+    <File Include="Properties/DataSources/System.Data.DataTable.datasource">
+      <publishTime>11/21/2019 07:21:13</publishTime>
+    </File>
+    <File Include="README.txt">
+      <publishTime>11/21/2019 09:39:34</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.7.1.intellisense.js">
+      <publishTime>11/20/2019 07:16:53</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.7.1.js">
+      <publishTime>11/20/2019 07:16:53</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.7.1.min.js">
+      <publishTime>11/20/2019 07:16:53</publishTime>
+    </File>
+    <File Include="Success.aspx">
+      <publishTime>11/21/2019 09:39:36</publishTime>
+    </File>
+    <File Include="Web References/WebEOC/FileAttachment.datasource">
+      <publishTime>11/21/2019 07:44:08</publishTime>
+    </File>
+    <File Include="Web References/WebEOC/MobileForm.datasource">
+      <publishTime>11/21/2019 07:44:08</publishTime>
+    </File>
+    <File Include="Web References/WebEOC/Reference.map">
+      <publishTime>11/21/2019 07:44:06</publishTime>
+    </File>
+    <File Include="Web References/WebEOC/WebEOCGroup.datasource">
+      <publishTime>11/21/2019 07:44:08</publishTime>
+    </File>
+    <File Include="Web References/WebEOC/WebEOCUser.datasource">
+      <publishTime>11/21/2019 07:44:08</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>11/21/2019 09:54:33</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
