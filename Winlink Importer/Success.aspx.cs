@@ -11,7 +11,7 @@ namespace Winlink_Importer
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            result.InnerHtml = Session["Message"].ToString();
         }
     }
 }
